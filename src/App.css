@@ -275,6 +275,10 @@ button:hover {
   margin-left: 5%;
 }
 
+.card2{
+  background-color: rgb(209, 81, 124);
+}
+
 /* MOBILE vERSION */
 @media only screen and (max-width: 375px) {
   .divnavbar {
@@ -348,5 +352,9 @@ button:hover {
 
   .back {
     margin-left: 5%;
+  }
+
+  .card2{
+    background-color: rgb(209, 81, 124);
   }
 }

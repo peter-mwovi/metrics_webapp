@@ -31,7 +31,7 @@ const Home = () => {
       </p>
       <p className="lato centered under">Click image:</p>
       <div className="grid">
-        <div className="imgcard">
+        <div className="imgcard card1">
           <span className="boroheading gillsans">Manhattan</span>
           <button className="styleless" type="button" onClick={() => handleBoroughClick('M')}>
             <img
@@ -43,7 +43,7 @@ const Home = () => {
             />
           </button>
         </div>
-        <div className="imgcard">
+        <div className="imgcard card2">
           <span className="boroheading gillsans">Bronx</span>
           <button className="styleless" type="button" onClick={() => handleBoroughClick('X')}>
             <img
@@ -55,7 +55,7 @@ const Home = () => {
             />
           </button>
         </div>
-        <div className="imgcard">
+        <div className="imgcard card1">
           <span className="boroheading gillsans">Brooklyn</span>
           <button className="styleless" type="button" onClick={() => handleBoroughClick('K')}>
             <img
@@ -67,7 +67,7 @@ const Home = () => {
             />
           </button>
         </div>
-        <div className="imgcard">
+        <div className="imgcard card2">
           <span className="boroheading gillsans">Queens</span>
           <button className="styleless" type="button" onClick={() => handleBoroughClick('Q')}>
             <img
@@ -79,7 +79,7 @@ const Home = () => {
             />
           </button>
         </div>
-        <div className="imgcard">
+        <div className="imgcard card1">
           <span className="boroheading gillsans">Staten Island</span>
           <button className="styleless" type="button" onClick={() => handleBoroughClick('R')}>
             <img
@@ -93,7 +93,7 @@ const Home = () => {
         </div>
       </div>
       <div className="footer">
-        <p className="by lato">by JC Muñoz</p>
+        <p className="by lato">by Peter Mwovi</p>
         <p className="acknowledge">
           Data from: NYC Open Data&nbsp;
           <br />

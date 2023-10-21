@@ -187,5 +187,7 @@ Thanks to my learning partners and the staff at Microverse.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+The design is inspired by an original idea by Nelson Sakwa on Behance.
+Lot's of thanks and appreciation to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

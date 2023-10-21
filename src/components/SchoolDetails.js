@@ -87,7 +87,7 @@ const SchoolDetails = ({ selectedSchool, clearSelectedSchool }) => {
         {website}
       </p>
       <div className="footer">
-        <p className="by lato">by JC Muñoz</p>
+        <p className="by lato">by Peter Mwovi</p>
         <p className="acknowledge">
           Data from: NYC Open Data&nbsp;
           <br />

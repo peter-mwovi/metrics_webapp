@@ -179,7 +179,7 @@ If you like this project, please support me with a like or a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Thanks to my learning partners and the staff at Microverse. <br/>
-The design is inspired by an original idea by Nelson Sakwa on Behance.
+The design is inspired by an original idea by Nelson Sakwa on Behance. <br/>
 Lot's of thanks and appreciation to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

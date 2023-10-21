@@ -162,11 +162,11 @@ li:nth-child(odd):hover {
 }
 
 .lato {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .gillsans {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: "Gill Sans", sans-serif;
 }
 
 .divsearch {
@@ -275,7 +275,7 @@ button:hover {
   margin-left: 5%;
 }
 
-.card2{
+.card2 {
   background-color: rgb(209, 81, 124);
 }
 
@@ -354,7 +354,7 @@ button:hover {
     margin-left: 5%;
   }
 
-  .card2{
+  .card2 {
     background-color: rgb(209, 81, 124);
   }
 }
